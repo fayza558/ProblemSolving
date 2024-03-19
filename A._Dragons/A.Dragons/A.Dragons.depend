@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710884163 source:c:\users\t460\desktop\a._dragons\a.dragons\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
