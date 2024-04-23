@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713905146 source:c:\users\t460\desktop\b_fence\b_fence\main.cpp
+	<iostream>
+	<algorithm>
+	<math.h>
+
