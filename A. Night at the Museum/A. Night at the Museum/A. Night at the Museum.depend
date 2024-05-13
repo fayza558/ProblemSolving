@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715625103 source:c:\users\t460\desktop\a. night at the museum\a. night at the museum\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+
