@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716792140 source:c:\users\t460\desktop\a. helpful maths\a. helpful maths\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
