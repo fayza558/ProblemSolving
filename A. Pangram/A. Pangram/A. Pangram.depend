@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717004894 source:c:\users\t460\desktop\a. pangram\a. pangram\main.cpp
+	<iostream>
+	<set>
+
