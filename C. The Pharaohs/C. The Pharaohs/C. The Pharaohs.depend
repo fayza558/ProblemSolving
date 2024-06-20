@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1718886387 source:c:\users\t460\desktop\c. the pharaohs\c. the pharaohs\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+
