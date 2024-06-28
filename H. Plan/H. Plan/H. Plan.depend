@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1719587923 source:c:\users\t460\desktop\h. plan\h. plan\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<algorithm>
+	<iostream>
+	<vector>
+	<map>
+	<algorithm>
+	<iostream>
+	<algorithm>
+
