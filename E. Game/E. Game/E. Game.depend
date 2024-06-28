@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1719571184 source:c:\users\t460\desktop\e. game\e. game\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
